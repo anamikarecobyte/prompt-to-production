@@ -1,0 +1,16 @@
+complaint_id,description,category,priority,reason,flag
+AM-202401,Tarmac surface melting at 44°C. Footwear sticking. Park users unsafe.,Road Damage,Standard,Based on description citing: Tarmac surface melting Footwear sticking Park users unsafe,
+AM-202402,Metal bus shelter reaching dangerous temperatures. Commuters refusing to use.,Other,Standard,Based on description citing: Metal bus shelter reaching dangerous temperatures Commuters refusing,NEEDS_REVIEW
+AM-202405,Dead trees with split branches. Fall risk to walkers. 3 trees affected.,Other,Standard,Based on description citing: Dead trees split branches Fall risk walkers trees,NEEDS_REVIEW
+AM-202406,Irrigation system broken. Grass dying in heatwave conditions.,Heat Hazard,Standard,Based on description citing: Irrigation system broken Grass dying heatwave conditions,
+AM-202407,Broken bench and upturned paving. Child injured last week.,Other,Urgent,Based on description citing: Broken bench upturned paving Child injured last week,NEEDS_REVIEW
+AM-202410,Pothole on main highway causing morning rush lane closure.,Pothole,Standard,Based on description citing: Pothole main highway causing morning rush lane closure,
+AM-202414,Residential colony unlit after 9pm. Wiring theft reported.,Other,Standard,Based on description citing: Residential colony unlit after Wiring theft reported,NEEDS_REVIEW
+AM-202417,Night market waste not cleared before morning. Heritage area affected.,Waste,Standard,Based on description citing: Night market waste not cleared before morning Heritage,
+AM-202421,Club music audible at residential buildings at 2am.,Noise,Standard,Based on description citing: Club music audible residential buildings,
+AM-202424,Zoo approach road surface bubbling at 45°C. Visitor complaints.,Road Damage,Standard,Based on description citing: Zoo approach road surface bubbling Visitor complaints,
+AM-202429,River walk surface temperature unbearable. Installed temperature reads 52°C.,Other,Standard,Based on description citing: River walk surface temperature unbearable Installed temperature reads,NEEDS_REVIEW
+AM-202431,Old city road subsidence near ancient step well. Heritage concern.,Heritage Damage,Standard,Based on description citing: Old city road subsidence ancient step well Heritage,
+AM-202435,Black metal road dividers storing heat. Motorists reporting burns on contact.,Heat Hazard,Standard,Based on description citing: Black metal road dividers storing heat Motorists reporting,
+AM-202444,Restaurant waste bins overflowing on Sunday night. Health risk.,Waste,Standard,Based on description citing: Restaurant waste bins overflowing Sunday night Health risk,
+AM-202445,BRT shelter roof glass broken. Users exposed to full sun.,Other,Standard,Based on description citing: BRT shelter roof glass broken Users exposed full,NEEDS_REVIEW
